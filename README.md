@@ -1,3 +1,3 @@
 # BI-projects
 My personal BI projects on interesting data visualisations using PowerBI and Tebleau
-<img width="548" alt="Screenshot 2023-02-07 at 23 21 16" src="https://user-images.githubusercontent.com/47451399/217368450-0fa41d6b-6c57-46a4-b756-784a25fd538c.png">
+![2021-2022 Asuinpientalojen Hinnojen Muutos Map View](https://user-images.githubusercontent.com/47451399/217368677-d02690d2-a3db-4467-b04e-1f496489b756.png)
